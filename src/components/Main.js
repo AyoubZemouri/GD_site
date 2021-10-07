@@ -103,7 +103,7 @@ function Main() {
     // SMOOTH SCROLL
     const goToContact = () => {
         scroller.scrollTo("contactPage", {
-          duration: 2500,
+          duration: 4000,
           delay: 0,
           smooth: "easeInOutQuart",
         });
@@ -111,7 +111,7 @@ function Main() {
 
       const goToServices = () => {
         scroller.scrollTo("servicesPage", {
-          duration: 2500,
+          duration: 4000,
           delay: 0,
           smooth: "easeInOutQuart",
           offset: -250,
@@ -120,7 +120,7 @@ function Main() {
 
       const goToRealisations = () => {
         scroller.scrollTo("realisationsPage", {
-          duration: 2500,
+          duration: 4000,
           delay: 0,
           smooth: "easeInOutQuart",
           offset: -250,
@@ -129,7 +129,7 @@ function Main() {
 
       const goToEnv = () => {
         scroller.scrollTo("environnementPage", {
-          duration: 2500,
+          duration: 4000,
           delay: 0,
           smooth: "easeInOutQuart",
           offset: -250,
