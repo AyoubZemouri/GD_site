@@ -44,13 +44,13 @@ function Realisationspage({soumissionActionButton}) {
         },
         {
             title: "IMPRESSION",
-            image: "../imgs/service1.jpg",
+            image: "../imgs/rea7.png",
             text: "",
             link: "/rea7",
         },
         {
             title: "IMPRESSION",
-            image: "../imgs/service1.jpg",
+            image: "../imgs/rea8.png",
             text: "",
             link: "/rea8",
         },

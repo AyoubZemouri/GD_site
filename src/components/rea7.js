@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 function rea7() {
 
     const reaImages = [
-        "../imgs/rea6.jpg" ,
+        "../imgs/rea7.png" ,
       ];
 
     return (
