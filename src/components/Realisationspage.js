@@ -22,7 +22,7 @@ function Realisationspage({soumissionActionButton}) {
             title: "IMPRESSION",
             image: "../imgs/rea3.jpg",
             text: "",
-            link: "/re3",
+            link: "/rea3",
         },
         {
             title: "IMPRESSION",
